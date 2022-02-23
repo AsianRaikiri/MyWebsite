@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+  }
+html{
+    background: linear-gradient(30deg,#434371, #79AEA3);
+  }
+  h1{
+    font-weight: 750;
+    font-size: 1.8rem;
+    font-family: serif;
+  }
+  h2{
+    font-weight: 500;
+    font-size: 1.4rem;
+    font-family: sans-serif;
+  }
+  p{
+    font-size: 1.05rem;
+    font-family: sans-serif;
+  }
+  .ueberschrift li{
+    font-size: 1.25rem;
+  }
