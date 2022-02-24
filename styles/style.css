@@ -1,8 +1,8 @@
 *{
     box-sizing: border-box;
   }
-html{
-    background: linear-gradient(30deg,#434371, #79AEA3);
+  html{
+    background: linear-gradient(80deg,rgb(134, 136, 136),rgb(86, 88, 88) );
   }
   h1{
     font-weight: 750;
@@ -14,10 +14,19 @@ html{
     font-size: 1.4rem;
     font-family: sans-serif;
   }
+  h3{
+      font-weight: 200;
+      font-size: 1.3rem;
+      font-family: sans-serif;
+  }
   p{
     font-size: 1.05rem;
     font-family: sans-serif;
   }
-  .ueberschrift li{
-    font-size: 1.25rem;
+  .aboutMe{
+      size: 80%;
   }
+  nav{
+      border-color: aliceblue;
+  }
+  
